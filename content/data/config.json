@@ -21,7 +21,8 @@
             {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "icon"
+                "style": "icon",
+                "icon_class": "test"
             },
             {
                 "label": "Style Guide",
