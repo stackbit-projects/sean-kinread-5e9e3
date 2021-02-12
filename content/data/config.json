@@ -22,7 +22,7 @@
                 "label": "Blog",
                 "url": "/blog/",
                 "style": "icon",
-                "icon_class": "target"
+                "icon_class": "pen"
             },
             {
                 "label": "Style Guide",
